@@ -74,5 +74,5 @@ Bitcoin Chat Protocol introduces a novel messaging protocol built on Bitcoin’s
 
 **Join the Development**: https://github.com/House-of-Bitcoin/bitcoinsuperchat
 
-**Website**: [houseofbitcoin.com] | [bitcoinsuperchat.com]
+**Website**: [houseofbitcoin.org] | [bitcoinsuperchat.org]
 
